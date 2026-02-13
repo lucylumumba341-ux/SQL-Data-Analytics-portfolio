@@ -34,6 +34,30 @@ I utilized **Pivot Tables** and **Pivot Charts** to extract meaningful business 
 ### Key Findings:
 * **Regional Leaders**: The **Central** region generated the highest revenue, exceeding **$100,049**.
 * **Interactivity**: Built-in **Slicers** allow stakeholders to filter by **Region** and **Status** instantly.
+  
 
 ![Pivot Analysis](4_PIVOT_TABLE_ANALYSIS.png)
 ![Interactive Dashboard](5_INTERACTIVE_DASHBOARD.png)
+
+---
+
+## Technical Skills Used
+| Tool | Application |
+| :--- | :--- |
+| **SQL** | Database creation, data insertion, and extraction |
+| **Excel** | Data cleaning (PROPER, TRIM, Text-to-Columns) |
+| **Data Viz** | Pivot Tables, Pivot Charts, and Interactive Slicers |
+
+## How to View the Project
+1. **Download the Dataset**: You can access the finalized Excel report here: [RETAIL_SALES_PERFORMANCE_ANALYSIS.xlsx](./RETAIL_SALES_PERFORMANCE_ANALYSIS.xlsx)
+2. **Interact**: Open the file in Excel to use the Slicers and explore the automated charts.
+3. **SQL Source**: The raw data extraction logic and table schemas are located in the .sql files within this repository.
+
+
+
+
+
+
+
+
+
