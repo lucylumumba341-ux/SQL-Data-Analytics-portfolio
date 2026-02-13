@@ -75,6 +75,6 @@ This repository contains SQL-based data analysis projects focused on transformin
 * **Key Skills:** PARTITION BY, Aggregations, and Salary Variance Analysis.
 * **Results:** Compared individual salaries against departmental averages to highlight potential pay gaps.
 
-![HR Analysis](HR%20SALARY%20BENCHMARKING%20&%20PEOPLE%20ANALYTICS.png)the automated charts.
+![HR Analysis](HR%20SALARY%20BENCHMARKING%20&%20PEOPLE%20ANALYTICS.png)
 
 
